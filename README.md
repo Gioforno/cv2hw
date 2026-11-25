@@ -1,1 +1,1 @@
-# Seconnd homework of CV course: image classification
+# Second homework of CV course: image classification
